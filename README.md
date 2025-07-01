@@ -6,14 +6,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Crafting+Digital+Experiences;💻+Frontend+%7C+Mobile+%7C+AI+Enthusiast;🎯+Turning+Ideas+into+Reality" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dio-rahman&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 <br>
 
 <!-- Animated divider -->
@@ -188,17 +180,6 @@ const dioRahman = {
 
 </details>
 
-## 📊 GitHub Analytics - The Numbers Game
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dio-rahman&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dio-rahman&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dio-rahman&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </div>
 
 ## 📈 Coding Stats, Contribution Graph & Achievements - My Coding Journey
@@ -208,15 +189,12 @@ const dioRahman = {
 </div>
 
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dio-rahman&theme=radical)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dio-rahman&theme=radical" width="48%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dio-rahman&theme=radical" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dio-rahman&theme=radical" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dio-rahman&theme=radical" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dio-rahman&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dio-rahman&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </div>
 
 <p align="center"> 
