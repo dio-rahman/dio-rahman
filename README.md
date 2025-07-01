@@ -1,5 +1,6 @@
-<h1 align="center">**FRONT END DEVELOPER**</h1>
-
+<div align="center">
+<h1 style="font-weight: bold;">FRONT END DEVELOPER</h1>
+</div>
 
 **🏫 Vocational : Politeknik Negeri Bandung - POLBAN**
 
