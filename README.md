@@ -1,22 +1,27 @@
 <h3 align="center">Front End Developer</h3>
 
-- 🎂 Point Of Sales Mobile Project [SaleZ](https://github.com/dio-rahman/proyeksalez.git)
 
-- 🏫 Vocational **Politeknik Negeri Bandung - POLBAN**
+🏫 Vocational **Politeknik Negeri Bandung - POLBAN**
 
-- 🎒 Training Course Web Project [JTKCourse](https://github.com/Rifqi-Irfansyah/Proyek-3-Aplikasi-sharing-training-JTK.git)
+👨‍🎓 Associate Degree **Diploma III - Informatics Engineering**
 
-- 🤝 Data Processor Web Project [Civika](https://github.com/akbarst3/civika-app.git)
 
-- 📽️ Youtube [https://www.youtube.com/@dio.rahman_](https://www.youtube.com/@dio.rahman_)
+🎂 Point Of Sales Mobile Project [SaleZ](https://github.com/dio-rahman/proyeksalez.git)
 
-- 🌐 Discord [https://discord.gg/47ZTnUd](https://discord.gg/47ZTnUd)
+🎒 Training Course Web Project [JTKCourse](https://github.com/Rifqi-Irfansyah/Proyek-3-Aplikasi-sharing-training-JTK.git)
 
-- 👨‍🎓 Associate Degree **Diploma III - Informatics Engineering**
+🤝 Data Processor Web Project [Civika](https://github.com/akbarst3/civika-app.git)
 
-- 🖇️ LinkedIn [www.linkedin.com/in/dio-rahman-8a1205362](www.linkedin.com/in/dio-rahman-8a1205362)
 
-- ☎️ Contact **dio.rahman.tif23@polban.ac.id**
+📽️ Youtube [https://www.youtube.com/@dio.rahman_](https://www.youtube.com/@dio.rahman_)
+
+🌐 Discord [https://discord.gg/47ZTnUd](https://discord.gg/47ZTnUd)
+
+🖇️ LinkedIn [www.linkedin.com/in/dio-rahman-8a1205362](www.linkedin.com/in/dio-rahman-8a1205362)
+
+
+☎️ Contact **dio.rahman.tif23@polban.ac.id**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
