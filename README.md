@@ -6,10 +6,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dio-rahman&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 🎓 Education & Background
 
 **🏫 Institution:** Politeknik Negeri Bandung (POLBAN)  
