@@ -189,12 +189,9 @@ const dioRahman = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dio-rahman&theme=radical" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dio-rahman&theme=radical" width="48%">
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dio-rahman&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dio-rahman&theme=radical" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dio-rahman&theme=radical" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dio-rahman&layout=compact&theme=radical&hide_border=true&langs_count=10" width="33%"/>
 </div>
 
 <p align="center"> 
@@ -227,13 +224,6 @@ const dioRahman = {
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
 ## 🎮 When I'm Not Coding...
 
 <div align="center">
@@ -250,6 +240,13 @@ const dioRahman = {
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
 
 <div align="center">
 
