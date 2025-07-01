@@ -1,10 +1,8 @@
 <h3 align="center">Front End Developer</h3>
 
-- 🏫 Vocational **Politeknik Negeri Bandung - POLBAN**
-
-- 👨‍🎓 Associate Degree **Diploma III - Informatics Engineering**
-
 - 🎂 Point Of Sales Mobile Project [SaleZ](https://github.com/dio-rahman/proyeksalez.git)
+
+- 🏫 Vocational **Politeknik Negeri Bandung - POLBAN**
 
 - 🎒 Training Course Web Project [JTKCourse](https://github.com/Rifqi-Irfansyah/Proyek-3-Aplikasi-sharing-training-JTK.git)
 
@@ -13,6 +11,8 @@
 - 📽️ Youtube [https://www.youtube.com/@dio.rahman_](https://www.youtube.com/@dio.rahman_)
 
 - 🌐 Discord [https://discord.gg/47ZTnUd](https://discord.gg/47ZTnUd)
+
+- 👨‍🎓 Associate Degree **Diploma III - Informatics Engineering**
 
 - 🖇️ LinkedIn [www.linkedin.com/in/dio-rahman-8a1205362](www.linkedin.com/in/dio-rahman-8a1205362)
 
