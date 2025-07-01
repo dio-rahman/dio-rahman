@@ -1,9 +1,5 @@
 <div align="center">
-
-# 🌟 Welcome to My Digital Universe! 🌟
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dio%20Rahman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Mobile%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-
 </div>
 
 <br>
@@ -107,9 +103,7 @@ const dioRahman = {
 
 ## 💻 Tech Arsenal - My Digital Weapons
 
-<details>
-<summary>🎨 <b>Frontend Development</b> (Click to expand!)</summary>
-<br>
+### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -121,11 +115,7 @@ const dioRahman = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-</details>
-
-<details>
-<summary>📱 <b>Mobile Development</b> (Click to expand!)</summary>
-<br>
+### 📱 Mobile Development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -133,11 +123,7 @@ const dioRahman = {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-</details>
-
-<details>
-<summary>⚙️ <b>Backend & Database</b> (Click to expand!)</summary>
-<br>
+### ⚙️ Backend & Database
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -149,11 +135,7 @@ const dioRahman = {
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</details>
-
-<details>
-<summary>🤖 <b>AI & Data Science</b> (Click to expand!)</summary>
-<br>
+### 🤖 AI & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -163,11 +145,7 @@ const dioRahman = {
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-</details>
-
-<details>
-<summary>🛠️ <b>Tools & Platforms</b> (Click to expand!)</summary>
-<br>
+### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -177,10 +155,6 @@ const dioRahman = {
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-</details>
-
-</div>
 
 ## 📈 Coding Stats, Contribution Graph & Achievements - My Coding Journey
 
